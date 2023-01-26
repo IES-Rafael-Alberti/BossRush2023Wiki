@@ -1,0 +1,2 @@
+| [![en-US](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/us.png)](https://github.com/IES-Rafael-Alberti/BossRush2023/wiki/Home)
+| [![es-ES](https://raw.githubusercontent.com/hjnilsson/country-flags/master/png100px/es.png)](https://github.com/IES-Rafael-Alberti/BossRush2023/wiki/Home-es-ES) |
